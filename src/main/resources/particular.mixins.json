@@ -10,7 +10,6 @@
   },
   "client": [
     "AccessorBillboardParticle",
-    "AccessorBiome",
     "AccessorBlockLeakParticle",
     "AccessorChestBlockEntity",
     "AccessorEnderChestBlockEntity",
@@ -31,7 +30,6 @@
     "InjectWaterBubbleParticle",
     "InjectWaterFluid",
     "InjectWorldRenderer",
-    "InvokerLivingEntity",
-    "InjectConfigWrapper"
+    "InvokerLivingEntity"
   ]
 }
